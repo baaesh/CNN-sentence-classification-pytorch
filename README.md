@@ -7,6 +7,7 @@ This is an unofficial implementation.There is [the implementation by the authors
 Dataset: [SNLI](https://nlp.stanford.edu/projects/snli/)
 
 Baseline from the paper
+
 | Model | MR | SST-1 | SST-2 | Subj | TREC |
 | ----- | -- | ----- | ----- | ---- | ---- |
 | random | 76.1 | 45.0 | 82.7 | 89.6 | 91.2 |
@@ -15,6 +16,7 @@ Baseline from the paper
 | multi-channel | 81.1 | 47.4 | 88.1 | 93.2 | 92.2 |
 
 Re-implementation
+
 | Model | MR | SST-1 | SST-2 | Subj | TREC |
 | ----- | -- | ----- | ----- | ---- | ---- |
 | random | - | 36.1 | 74.5 | - | 87.2 |
