@@ -22,7 +22,7 @@ Re-implementation
 | random | - | 36.1 | 74.5 | - | 87.2 |
 | static | - | 47.8 | 85.2 | - | 92.8 |
 | non-static | 81.0 | 47.8 | 85.3 | 92.8 | 93.6 |
-| multi-channel | - | 48.1 | 85.2 | - | 93.8 |
+| multi-channel | 81.0 | 48.1 | 85.2 | - | 93.8 |
 
 
 
