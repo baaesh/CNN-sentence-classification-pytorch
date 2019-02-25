@@ -1,10 +1,9 @@
 # Convolutional Neural Networks for Sentence Classification
 Pytorch re-implementation of [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882).
 
-This is an unofficial implementation.There is [the implementation by the authors](https://github.com/yoonkim/CNN_sentence), which is implemented on Theano.
+This is an unofficial implementation. There is [the implementation by the authors](https://github.com/yoonkim/CNN_sentence), which is implemented on Theano.
 
 ## Results
-Dataset: [SNLI](https://nlp.stanford.edu/projects/snli/)
 
 Baseline from the paper
 
